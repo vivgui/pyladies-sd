@@ -1,2 +1,2 @@
-# pyladies-sd
-A repo for Pyladies Santo Domingo
+# Pyladies Santo Domingo
+A repo for Pyladies Santo Domingo Lessons
