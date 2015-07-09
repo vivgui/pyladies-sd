@@ -1,0 +1,114 @@
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	width: 1170px;
+	margin: 0 auto;
+	padding: 20px 0px;
+	background-color: #F9F9F9;
+	font-family: 'Helvetica';
+	font-weight: 300;
+}
+
+header {
+	border: 1px solid #ddd;
+	padding: 20px;
+	background-color: #fefefe;
+	margin-bottom: 20px;
+}
+
+header img {
+	float: left;
+	height: 90px;
+	margin-right: 20px;
+	border-radius: 50%;
+	
+}
+
+.header-text {
+	color: #222;
+	font-weight: 400;
+	margin: 10px;
+}
+
+aside {
+	width: 20%;
+	border: 1px solid #ddd;
+	background-color: #fefefe;
+	display: inline-block;
+	text-align: center;
+}
+
+aside ul {
+	padding: 0px 20px;
+}
+
+aside ul li {
+	list-style-type: none;
+	padding: 10px 0px;
+}
+
+main {
+	width: 78%;
+	border: 1px solid #ddd;
+	background-color: #fefefe;
+	float: right;
+	padding: 20px;
+}
+
+main li {
+	list-style-type: circle;
+	padding: 5px 0px;
+}
+
+.section {
+	margin-bottom: 40px;
+}
+
+.button {
+	border: 1px solid #000;
+	color: #fff;
+	padding: 10px 20px;
+	border-radius: 5px;
+	text-decoration: none;
+	display: inline-block;
+	min-width: 150px;
+}
+
+.button i {
+	margin-right: 5px;
+	font-size: 16px;
+}
+
+.button-fb {
+	border-color: #46629E;
+	background-color: #46629E;
+}
+
+.button-fb:hover {
+	border-color: #364c7b;
+	background-color: #364c7b;
+}
+
+.button-twitter {
+	border-color: #5EA9DD;
+	background-color: #5EA9DD;
+}
+
+.button-twitter:hover {
+	border-color: #3493d4;
+	background-color: #3493d4;
+}
+
+.button-green {
+	border-color: #27ae60;
+	background-color: #27ae60;
+}
+
+
+
+
+
+
